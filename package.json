@@ -9,6 +9,7 @@
   "author": "Lucas, Cainan, Victor",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-rescue": "^1.1.31"
   }
 }
